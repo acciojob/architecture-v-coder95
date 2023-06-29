@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+table{
+	width: 1100px;
+}
+.first{
+	width:200px;
+}
+.last{
+	width:200px;
+}
+.middle{
+	width:600px;
+}
+.imageContainer{
+width: 1100px;	
+}
